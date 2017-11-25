@@ -4,6 +4,13 @@ using UnityEngine;
 
 public class QuizAnswer : MonoBehaviour
 {
+    private SubmitQuiz _submitQuiz;
+
+    private void Start()
+    {
+        _submitQuiz = FindObjectOfType<SubmitQuiz>();
+    }
+
     public enum QuizButtonType
     {
         Correct,
@@ -14,13 +21,6 @@ public class QuizAnswer : MonoBehaviour
 
     public void SendMyselfTest()
     {
-        if (Type == QuizButtonType.Correct)
-        {
-            //Correct answer logic
-        }
-        else
-        {
-            //Incorrect answer logic
-        }
+        _submitQuiz.Submit(this);
     }
 }

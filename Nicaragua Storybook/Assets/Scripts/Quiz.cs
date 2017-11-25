@@ -32,18 +32,22 @@ public class Quiz : MonoBehaviour
 
     private void Start()
     {
-       // TestSetUp();
+       TestSetUp(0);
     }
 
-    public void TestSetUp()
-    {
-        QuestionTitle.text = TestQuestion.Title;
 
-        int index = 0;
+    public void TestSetUp(int questionIndex)
+    {
+        if (questionIndex > Questions.Count - 1) //Doesn't allow to go any further
+            return;
+
+        QuestionTitle.text = Questions[questionIndex].Title;
+
+        var index = 0;
 
         foreach (Transform answer in Answers)
         {
-            answer.GetChild(0).GetComponent<Text>().text = TestQuestion.Answers[index];
+            answer.GetChild(0).GetComponent<Text>().text = Questions[questionIndex].Answers[index];
             index++;
         }
     }

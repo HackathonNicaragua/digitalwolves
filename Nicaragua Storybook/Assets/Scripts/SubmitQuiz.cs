@@ -7,13 +7,23 @@ public class SubmitQuiz : MonoBehaviour
 
     public void Submit(QuizAnswer answer)
     {
-        if (answer.Type == QuizAnswer.QuizButtonType.Correct)
+        if (answer == null) //Doesn't allow to go any further
+            return;
+
+        var quizIndex = 0;
+
+        switch (answer.Type)
         {
-            StoryQuiz.Score += 25;
-        }
-        if (answer.Type == QuizAnswer.QuizButtonType.Incorrect)
-        {
-            //Load next question
+            case QuizAnswer.QuizButtonType.Correct:
+                StoryQuiz.Score += 25;
+                Debug.Log("El puntaje es: " + StoryQuiz.Score);
+                quizIndex++;
+                StoryQuiz.TestSetUp(quizIndex);
+                break;
+            case QuizAnswer.QuizButtonType.Incorrect:
+                quizIndex++;
+                StoryQuiz.TestSetUp(quizIndex);
+                break;
         }
     }
 }
