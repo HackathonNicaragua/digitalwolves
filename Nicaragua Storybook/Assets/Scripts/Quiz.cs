@@ -35,7 +35,6 @@ public class Quiz : MonoBehaviour
        // TestSetUp();
     }
 
-    
     public void TestSetUp()
     {
         QuestionTitle.text = TestQuestion.Title;
