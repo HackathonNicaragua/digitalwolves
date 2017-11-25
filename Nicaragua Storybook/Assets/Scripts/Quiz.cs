@@ -14,16 +14,16 @@ public class Quiz : MonoBehaviour
 
 
         //Assignment constructor.
-        public Question(string min, int max)
+        public Question(string title)
         {
-            Title = min;
+            Title = title;
         }
     }
 
     public Transform Answers; //The order is important
     public Text QuestionTitle;
 
-    public Question TestQuestion = new Question("Test", 9);
+    public Question TestQuestion = new Question("Test");
 
     private void Start()
     {
@@ -41,10 +41,5 @@ public class Quiz : MonoBehaviour
             answer.GetChild(0).GetComponent<Text>().text = TestQuestion.Answers[index];
             index++;
         }
-
-        /*for (int i = 0; i < TestQuestion.Answers.Length; i++)
-        {
-            Answers[i].GetComponent<Text>().text = TestQuestion.Answers[i];
-        }*/
     }
 }
