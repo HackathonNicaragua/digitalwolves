@@ -1,5 +1,7 @@
 ﻿using UnityEngine;
 using System;
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine.UI;
 
 
@@ -22,14 +24,18 @@ public class Quiz : MonoBehaviour
 
     public Transform Answers; //The order is important
     public Text QuestionTitle;
+    public int Score;
 
     public Question TestQuestion = new Question("Test");
 
+    public List<Question> Questions = new List<Question>();
+
     private void Start()
     {
-        TestSetUp();
+       // TestSetUp();
     }
 
+    
     public void TestSetUp()
     {
         QuestionTitle.text = TestQuestion.Title;

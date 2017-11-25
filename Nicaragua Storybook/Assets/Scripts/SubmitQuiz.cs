@@ -3,16 +3,17 @@ using System.Collections;
 
 public class SubmitQuiz : MonoBehaviour
 {
+    public Quiz StoryQuiz;
 
-    // Use this for initialization
-    void Start()
+    public void Submit(QuizAnswer answer)
     {
-
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
+        if (answer.Type == QuizAnswer.QuizButtonType.Correct)
+        {
+            StoryQuiz.Score += 25;
+        }
+        if (answer.Type == QuizAnswer.QuizButtonType.Incorrect)
+        {
+            //Load next question
+        }
     }
 }
