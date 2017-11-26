@@ -22,35 +22,43 @@ public class SubmitAnswerButton : MonoBehaviour
 		
 	public void CheckAnswers() 
 	{
-		if (Answer.IsCorrect) 
-		{
-			_quiz.Score += 2.5f;
-			_questionIndex++;
-
-			//Go to next question
-			if (_questionIndex > 5) 
+		if (Answer != null) {
+			if (Answer.IsCorrect) 
 			{
-				Results.SetActive(true);
-				GameObject.Find ("QuizHolder").SetActive(false);
-			} else 
-			{
-				_quiz.ShowQuestion (_questionIndex);
+				_quiz.Score += 20;
+				_questionIndex++;
 				_quiz.AnsweredCorrectly++;
-			}
-		} 
-		else if (!Answer.IsCorrect)
-		{
-			_questionIndex++;
+				Debug.Log("You have " + _quiz.AnsweredCorrectly + " correct answers");
+				Debug.Log("Score " + _quiz.Score);
 
-			if (_questionIndex > 4) 
-			{
-				Results.SetActive(true);
-				GameObject.Find ("QuizHolder").SetActive (false);
+				//Go to next question
+				if (_questionIndex > 4) 
+				{
+					Answer = null;
+					Results.SetActive(true);
+					GameObject.Find ("QuizHolder").SetActive(false);
+				} else 
+				{
+					Answer = null;
+					_quiz.ShowQuestion (_questionIndex);
+				}
 			} 
-			else 
+			else if (!Answer.IsCorrect)
 			{
-				Debug.Log ("Incorrect!");
-				_quiz.ShowQuestion (_questionIndex);
+				_questionIndex++;
+
+				if (_questionIndex > 4) 
+				{
+					Answer = null;
+					Results.SetActive(true);
+					GameObject.Find ("QuizHolder").SetActive (false);
+				} 
+				else 
+				{
+					Answer = null;
+					Debug.Log ("Incorrect!");
+					_quiz.ShowQuestion (_questionIndex);
+				}
 			}
 		}
 	}

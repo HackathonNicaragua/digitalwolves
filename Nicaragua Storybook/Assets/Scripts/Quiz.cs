@@ -31,8 +31,8 @@ public class Quiz : MonoBehaviour
 
     public Transform AnswersContainer; //The order is important
     public Text QuestionTitle;
-    public float Score; //No tiene funcionalidad... RIP
-	public int AnsweredCorrectly;
+    public int Score = 0;
+	public int AnsweredCorrectly = 0;
 
     [Tooltip("All questions from the current quiz")] public List<Question> Questions;
 

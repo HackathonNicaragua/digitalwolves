@@ -14,7 +14,7 @@ public class ResultsScreen : MonoBehaviour
 	{
 		_quiz = GameObject.Find ("Quiz").GetComponent<Quiz> ();
 
-		Score.text = "Puntaje . . . . . . . . " + _quiz.Score + "/" + 10;
+		Score.text = "Puntaje . . . . . . . . " + _quiz.Score + "/" + 100;
 		CorrectQuestions.text = "Preguntas correctas . . . . " + _quiz.AnsweredCorrectly + "/" + 5;
 	}
 }
