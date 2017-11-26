@@ -1,29 +1,32 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.UI;
+using System;
 
 public class SubmitQuiz : MonoBehaviour
 {
-    public Quiz StoryQuiz;
+    public Quiz.Answer Answer;
+    private int index = 0;
 
-    public void Submit(QuizAnswer answer)
+    private void Update()
     {
-        if (answer == null) //Doesn't allow to go any further
-            return;
+        GetComponent<Button>().onClick.AddListener(CheckIfQuestionIsCorrect);
+    }
 
-        var quizIndex = 0;
-
-        switch (answer.Type)
+    private void CheckIfQuestionIsCorrect()
+    {
+        if (Answer.IsCorrect)
         {
-            case QuizAnswer.QuizButtonType.Correct:
-                StoryQuiz.Score += 25;
-                Debug.Log("El puntaje es: " + StoryQuiz.Score);
-                quizIndex++;
-                StoryQuiz.TestSetUp(quizIndex);
-                break;
-            case QuizAnswer.QuizButtonType.Incorrect:
-                quizIndex++;
-                StoryQuiz.TestSetUp(quizIndex);
-                break;
+            index++;
+            GameObject.Find("Quiz").GetComponent<Quiz>().SetUpQuestions(index);
+            Debug.Log("Correct answer!");
+            //Dar puntaje
+        }
+        else
+        {
+            index++;
+            GameObject.Find("Quiz").GetComponent<Quiz>().SetUpQuestions(index);
+            Debug.Log("Incorrect answer!");
         }
     }
 }

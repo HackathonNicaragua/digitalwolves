@@ -11,44 +11,52 @@ public class Quiz : MonoBehaviour
     [Serializable]
     public class Question
     {
-        public string Title;             //The actual question
-        public string[] Answers;        //Its answers
-
+        public string QuestionTitle;             //The actual question
+        public Answer[] Answers;        //Its answers
+        //public bool IsCorrect;
 
         //Assignment constructor.
-        public Question(string title)
+        public Question(string questionTitle)
         {
-            Title = title;
+            QuestionTitle = questionTitle;
         }
+    }
+
+    [Serializable]
+    public class Answer
+    {
+        public bool IsCorrect;
+        public string AnswerText;
     }
 
     public Transform Answers; //The order is important
     public Text QuestionTitle;
     public int Score;
 
-    public Question TestQuestion = new Question("Test");
-
     public List<Question> Questions = new List<Question>();
 
     private void Start()
     {
-       TestSetUp(0);
+       SetUpQuestions(0);
     }
 
 
-    public void TestSetUp(int questionIndex)
+    public void SetUpQuestions(int questionIndex)
     {
         if (questionIndex > Questions.Count - 1) //Doesn't allow to go any further
             return;
 
-        QuestionTitle.text = Questions[questionIndex].Title;
+        QuestionTitle.text = Questions[questionIndex].QuestionTitle;
 
         var index = 0;
 
         foreach (Transform answer in Answers)
         {
-            answer.GetChild(0).GetComponent<Text>().text = Questions[questionIndex].Answers[index];
+            answer.GetComponent<QuestionButton>().Question = Questions[questionIndex].Answers[questionIndex];
+            answer.GetChild(0).GetComponent<Text>().text = Questions[questionIndex].Answers[index].AnswerText;
             index++;
         }
+
+        Debug.Log("We are at question: " + questionIndex);
     }
 }

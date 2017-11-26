@@ -10,12 +10,10 @@ public class StoryBookUIElement : MonoBehaviour
     [Tooltip("La imagen (textura) que tendra el storybook en el menu")] public Texture StoryBookTexture;
 
     [Header("Imagenes y texto")]
-    public Text StoryText;
     public RawImage StoryCoverImage;
 
     private void Start()
     {
-        StoryText.text = StoryBookTitle;
         StoryCoverImage.texture = StoryBookTexture;
     }
 }
