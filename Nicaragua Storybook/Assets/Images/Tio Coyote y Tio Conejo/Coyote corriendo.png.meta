@@ -1,0 +1,1015 @@
+fileFormatVersion: 2
+guid: 22926cac0cebeb04987ef0d29403a82b
+timeCreated: 1511696631
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: screen coyote_0
+    21300002: screen coyote_1
+    21300004: screen coyote_2
+    21300006: screen coyote_3
+    21300008: screen coyote_4
+    21300010: screen coyote_5
+    21300012: screen coyote_6
+    21300014: screen coyote_7
+    21300016: screen coyote_8
+    21300018: screen coyote_9
+    21300020: screen coyote_10
+    21300022: screen coyote_11
+    21300024: screen coyote_12
+    21300026: screen coyote_13
+    21300028: screen coyote_14
+    21300030: screen coyote_15
+    21300032: screen coyote_16
+    21300034: screen coyote_17
+    21300036: screen coyote_18
+    21300038: screen coyote_19
+    21300040: screen coyote_20
+    21300042: screen coyote_21
+    21300044: screen coyote_22
+    21300046: screen coyote_23
+    21300048: screen coyote_24
+    21300050: screen coyote_25
+    21300052: screen coyote_26
+    21300054: screen coyote_27
+    21300056: screen coyote_28
+    21300058: screen coyote_29
+    21300060: screen coyote_30
+    21300062: screen coyote_31
+    21300064: screen coyote_32
+    21300066: screen coyote_33
+    21300068: screen coyote_34
+    21300070: screen coyote_35
+    21300072: screen coyote_36
+    21300074: screen coyote_37
+    21300076: screen coyote_38
+    21300078: screen coyote_39
+    21300080: screen coyote_40
+    21300082: screen coyote_41
+    21300084: screen coyote_42
+    21300086: screen coyote_43
+    21300088: screen coyote_44
+    21300090: screen coyote_45
+    21300092: screen coyote_46
+    21300094: screen coyote_47
+    21300096: screen coyote_48
+    21300098: screen coyote_49
+    21300100: screen coyote_50
+    21300102: screen coyote_51
+    21300104: screen coyote_52
+    21300106: screen coyote_53
+    21300108: screen coyote_54
+    21300110: screen coyote_55
+    21300112: screen coyote_56
+    21300114: screen coyote_57
+    21300116: screen coyote_58
+    21300118: screen coyote_59
+    21300120: screen coyote_60
+    21300122: screen coyote_61
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: screen coyote_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2794
+        width: 427
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_1
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2794
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_2
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 2794
+        width: 431
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_3
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 2794
+        width: 436
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_4
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 2794
+        width: 437
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_5
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 2796
+        width: 436
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_6
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 2796
+        width: 438
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_7
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 2796
+        width: 440
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_8
+      rect:
+        serializedVersion: 2
+        x: 3917
+        y: 2794
+        width: 441
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_9
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 2794
+        width: 441
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2331
+        width: 441
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_11
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 2331
+        width: 441
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_12
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 2331
+        width: 441
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_13
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 2331
+        width: 440
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_14
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 2331
+        width: 440
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_15
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 2331
+        width: 439
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_16
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 2331
+        width: 439
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_17
+      rect:
+        serializedVersion: 2
+        x: 3437
+        y: 2331
+        width: 439
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_18
+      rect:
+        serializedVersion: 2
+        x: 3924
+        y: 2331
+        width: 439
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_19
+      rect:
+        serializedVersion: 2
+        x: 4411
+        y: 2331
+        width: 438
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1868
+        width: 434
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_21
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1868
+        width: 434
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_22
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1871
+        width: 433
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_23
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1871
+        width: 431
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_24
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 1871
+        width: 429
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_25
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 1873
+        width: 431
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_26
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 1873
+        width: 437
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_27
+      rect:
+        serializedVersion: 2
+        x: 3433
+        y: 1873
+        width: 441
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_28
+      rect:
+        serializedVersion: 2
+        x: 3912
+        y: 1876
+        width: 446
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_29
+      rect:
+        serializedVersion: 2
+        x: 4394
+        y: 1876
+        width: 450
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1413
+        width: 454
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_31
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1415
+        width: 459
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_32
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1415
+        width: 456
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_33
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1413
+        width: 453
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_34
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 1413
+        width: 448
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_35
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 1411
+        width: 444
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_36
+      rect:
+        serializedVersion: 2
+        x: 2949
+        y: 1410
+        width: 438
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_37
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 1408
+        width: 434
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_38
+      rect:
+        serializedVersion: 2
+        x: 3931
+        y: 1408
+        width: 429
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_39
+      rect:
+        serializedVersion: 2
+        x: 4417
+        y: 1408
+        width: 430
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_40
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 943
+        width: 431
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_41
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 943
+        width: 434
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_42
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 941
+        width: 434
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_43
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 941
+        width: 437
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_44
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 941
+        width: 439
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_45
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 938
+        width: 438
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_46
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 938
+        width: 439
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_47
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 938
+        width: 441
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_48
+      rect:
+        serializedVersion: 2
+        x: 3921
+        y: 938
+        width: 441
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_49
+      rect:
+        serializedVersion: 2
+        x: 4406
+        y: 938
+        width: 441
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 473
+        width: 441
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_51
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 473
+        width: 442
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_52
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 473
+        width: 441
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_53
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 474
+        width: 440
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_54
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 474
+        width: 442
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_55
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 475
+        width: 439
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_56
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 476
+        width: 439
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_57
+      rect:
+        serializedVersion: 2
+        x: 3431
+        y: 476
+        width: 438
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_58
+      rect:
+        serializedVersion: 2
+        x: 3917
+        y: 476
+        width: 436
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_59
+      rect:
+        serializedVersion: 2
+        x: 4403
+        y: 476
+        width: 437
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_60
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 11
+        width: 434
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: screen coyote_61
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 11
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

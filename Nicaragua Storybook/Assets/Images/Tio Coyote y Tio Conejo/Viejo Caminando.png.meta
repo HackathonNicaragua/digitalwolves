@@ -1,0 +1,1015 @@
+fileFormatVersion: 2
+guid: f68ced7b8ffd19d42910b998da43c3a5
+timeCreated: 1511702092
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Viejo Caminando_0
+    21300002: Viejo Caminando_1
+    21300004: Viejo Caminando_2
+    21300006: Viejo Caminando_3
+    21300008: Viejo Caminando_4
+    21300010: Viejo Caminando_5
+    21300012: Viejo Caminando_6
+    21300014: Viejo Caminando_7
+    21300016: Viejo Caminando_8
+    21300018: Viejo Caminando_9
+    21300020: Viejo Caminando_10
+    21300022: Viejo Caminando_11
+    21300024: Viejo Caminando_12
+    21300026: Viejo Caminando_13
+    21300028: Viejo Caminando_14
+    21300030: Viejo Caminando_15
+    21300032: Viejo Caminando_16
+    21300034: Viejo Caminando_17
+    21300036: Viejo Caminando_18
+    21300038: Viejo Caminando_19
+    21300040: Viejo Caminando_20
+    21300042: Viejo Caminando_21
+    21300044: Viejo Caminando_22
+    21300046: Viejo Caminando_23
+    21300048: Viejo Caminando_24
+    21300050: Viejo Caminando_25
+    21300052: Viejo Caminando_26
+    21300054: Viejo Caminando_27
+    21300056: Viejo Caminando_28
+    21300058: Viejo Caminando_29
+    21300060: Viejo Caminando_30
+    21300062: Viejo Caminando_31
+    21300064: Viejo Caminando_32
+    21300066: Viejo Caminando_33
+    21300068: Viejo Caminando_34
+    21300070: Viejo Caminando_35
+    21300072: Viejo Caminando_36
+    21300074: Viejo Caminando_37
+    21300076: Viejo Caminando_38
+    21300078: Viejo Caminando_39
+    21300080: Viejo Caminando_40
+    21300082: Viejo Caminando_41
+    21300084: Viejo Caminando_42
+    21300086: Viejo Caminando_43
+    21300088: Viejo Caminando_44
+    21300090: Viejo Caminando_45
+    21300092: Viejo Caminando_46
+    21300094: Viejo Caminando_47
+    21300096: Viejo Caminando_48
+    21300098: Viejo Caminando_49
+    21300100: Viejo Caminando_50
+    21300102: Viejo Caminando_51
+    21300104: Viejo Caminando_52
+    21300106: Viejo Caminando_53
+    21300108: Viejo Caminando_54
+    21300110: Viejo Caminando_55
+    21300112: Viejo Caminando_56
+    21300114: Viejo Caminando_57
+    21300116: Viejo Caminando_58
+    21300118: Viejo Caminando_59
+    21300120: Viejo Caminando_60
+    21300122: Viejo Caminando_61
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Viejo Caminando_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2767
+        width: 347
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_1
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2767
+        width: 325
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_2
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 2768
+        width: 301
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_3
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 2768
+        width: 282
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_4
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 2769
+        width: 272
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_5
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 2770
+        width: 279
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_6
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 2770
+        width: 290
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_7
+      rect:
+        serializedVersion: 2
+        x: 2642
+        y: 2772
+        width: 304
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_8
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 2772
+        width: 316
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_9
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 2774
+        width: 327
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2314
+        width: 338
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_11
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2316
+        width: 351
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_12
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 2318
+        width: 360
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_13
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 2318
+        width: 363
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_14
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 2318
+        width: 362
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_15
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 2317
+        width: 359
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_16
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 2316
+        width: 356
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_17
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 2316
+        width: 352
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_18
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 2316
+        width: 352
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_19
+      rect:
+        serializedVersion: 2
+        x: 3359
+        y: 2316
+        width: 349
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1854
+        width: 345
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_21
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1853
+        width: 343
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_22
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1853
+        width: 340
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_23
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1853
+        width: 338
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_24
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 1853
+        width: 334
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_25
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1852
+        width: 332
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_26
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 1851
+        width: 329
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_27
+      rect:
+        serializedVersion: 2
+        x: 2629
+        y: 1851
+        width: 325
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_28
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 1851
+        width: 323
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_29
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 1851
+        width: 321
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_30
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1390
+        width: 318
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_31
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1390
+        width: 314
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_32
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1389
+        width: 311
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_33
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1388
+        width: 306
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_34
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1388
+        width: 306
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_35
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1388
+        width: 303
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_36
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 1388
+        width: 300
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_37
+      rect:
+        serializedVersion: 2
+        x: 2647
+        y: 1388
+        width: 296
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_38
+      rect:
+        serializedVersion: 2
+        x: 3022
+        y: 1388
+        width: 292
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_39
+      rect:
+        serializedVersion: 2
+        x: 3394
+        y: 1387
+        width: 291
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 926
+        width: 287
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_41
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 925
+        width: 285
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_42
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 925
+        width: 281
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_43
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 925
+        width: 278
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_44
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 925
+        width: 274
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_45
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 925
+        width: 273
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_46
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 925
+        width: 272
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_47
+      rect:
+        serializedVersion: 2
+        x: 2657
+        y: 925
+        width: 274
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_48
+      rect:
+        serializedVersion: 2
+        x: 3027
+        y: 925
+        width: 274
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_49
+      rect:
+        serializedVersion: 2
+        x: 3398
+        y: 925
+        width: 276
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_50
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 464
+        width: 282
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_51
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 464
+        width: 283
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_52
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 463
+        width: 287
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_53
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 462
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_54
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 462
+        width: 298
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_55
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 462
+        width: 305
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_56
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 462
+        width: 311
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_57
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 462
+        width: 316
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_58
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 462
+        width: 322
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_59
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 462
+        width: 328
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_60
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1
+        width: 333
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Viejo Caminando_61
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1
+        width: 338
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

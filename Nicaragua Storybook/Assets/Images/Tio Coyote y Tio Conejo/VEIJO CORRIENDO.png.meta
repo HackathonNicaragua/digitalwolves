@@ -1,0 +1,1015 @@
+fileFormatVersion: 2
+guid: 9be230f5106001347b0d12e96456ef52
+timeCreated: 1511696322
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: VEIJO CORRIENDO_0
+    21300002: VEIJO CORRIENDO_1
+    21300004: VEIJO CORRIENDO_2
+    21300006: VEIJO CORRIENDO_3
+    21300008: VEIJO CORRIENDO_4
+    21300010: VEIJO CORRIENDO_5
+    21300012: VEIJO CORRIENDO_6
+    21300014: VEIJO CORRIENDO_7
+    21300016: VEIJO CORRIENDO_8
+    21300018: VEIJO CORRIENDO_9
+    21300020: VEIJO CORRIENDO_10
+    21300022: VEIJO CORRIENDO_11
+    21300024: VEIJO CORRIENDO_12
+    21300026: VEIJO CORRIENDO_13
+    21300028: VEIJO CORRIENDO_14
+    21300030: VEIJO CORRIENDO_15
+    21300032: VEIJO CORRIENDO_16
+    21300034: VEIJO CORRIENDO_17
+    21300036: VEIJO CORRIENDO_18
+    21300038: VEIJO CORRIENDO_19
+    21300040: VEIJO CORRIENDO_20
+    21300042: VEIJO CORRIENDO_21
+    21300044: VEIJO CORRIENDO_22
+    21300046: VEIJO CORRIENDO_23
+    21300048: VEIJO CORRIENDO_24
+    21300050: VEIJO CORRIENDO_25
+    21300052: VEIJO CORRIENDO_26
+    21300054: VEIJO CORRIENDO_27
+    21300056: VEIJO CORRIENDO_28
+    21300058: VEIJO CORRIENDO_29
+    21300060: VEIJO CORRIENDO_30
+    21300062: VEIJO CORRIENDO_31
+    21300064: VEIJO CORRIENDO_32
+    21300066: VEIJO CORRIENDO_33
+    21300068: VEIJO CORRIENDO_34
+    21300070: VEIJO CORRIENDO_35
+    21300072: VEIJO CORRIENDO_36
+    21300074: VEIJO CORRIENDO_37
+    21300076: VEIJO CORRIENDO_38
+    21300078: VEIJO CORRIENDO_39
+    21300080: VEIJO CORRIENDO_40
+    21300082: VEIJO CORRIENDO_41
+    21300084: VEIJO CORRIENDO_42
+    21300086: VEIJO CORRIENDO_43
+    21300088: VEIJO CORRIENDO_44
+    21300090: VEIJO CORRIENDO_45
+    21300092: VEIJO CORRIENDO_46
+    21300094: VEIJO CORRIENDO_47
+    21300096: VEIJO CORRIENDO_48
+    21300098: VEIJO CORRIENDO_49
+    21300100: VEIJO CORRIENDO_50
+    21300102: VEIJO CORRIENDO_51
+    21300104: VEIJO CORRIENDO_52
+    21300106: VEIJO CORRIENDO_53
+    21300108: VEIJO CORRIENDO_54
+    21300110: VEIJO CORRIENDO_55
+    21300112: VEIJO CORRIENDO_56
+    21300114: VEIJO CORRIENDO_57
+    21300116: VEIJO CORRIENDO_58
+    21300118: VEIJO CORRIENDO_59
+    21300120: VEIJO CORRIENDO_60
+    21300122: VEIJO CORRIENDO_61
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2656
+        width: 378
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_1
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2656
+        width: 378
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_2
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 2656
+        width: 378
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_3
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 2656
+        width: 379
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_4
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 2656
+        width: 378
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_5
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 2656
+        width: 377
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_6
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 2656
+        width: 378
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_7
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 2656
+        width: 378
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_8
+      rect:
+        serializedVersion: 2
+        x: 3283
+        y: 2656
+        width: 378
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_9
+      rect:
+        serializedVersion: 2
+        x: 3691
+        y: 2656
+        width: 377
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2212
+        width: 376
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_11
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2212
+        width: 376
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_12
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 2212
+        width: 377
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_13
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 2212
+        width: 378
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_14
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 2212
+        width: 376
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_15
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 2212
+        width: 376
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_16
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 2212
+        width: 376
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_17
+      rect:
+        serializedVersion: 2
+        x: 2876
+        y: 2212
+        width: 376
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_18
+      rect:
+        serializedVersion: 2
+        x: 3284
+        y: 2212
+        width: 377
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_19
+      rect:
+        serializedVersion: 2
+        x: 3693
+        y: 2212
+        width: 376
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_20
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1770
+        width: 375
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_21
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1770
+        width: 376
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_22
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1770
+        width: 375
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_23
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1770
+        width: 376
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_24
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 1770
+        width: 376
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_25
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 1770
+        width: 374
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_26
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 1770
+        width: 374
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_27
+      rect:
+        serializedVersion: 2
+        x: 2878
+        y: 1770
+        width: 374
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_28
+      rect:
+        serializedVersion: 2
+        x: 3285
+        y: 1770
+        width: 376
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_29
+      rect:
+        serializedVersion: 2
+        x: 3694
+        y: 1770
+        width: 375
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_30
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1326
+        width: 373
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_31
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1326
+        width: 374
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_32
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1326
+        width: 374
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_33
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 1326
+        width: 374
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_34
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 1326
+        width: 375
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_35
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 1326
+        width: 374
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_36
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 1326
+        width: 374
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_37
+      rect:
+        serializedVersion: 2
+        x: 2877
+        y: 1326
+        width: 375
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_38
+      rect:
+        serializedVersion: 2
+        x: 3285
+        y: 1326
+        width: 376
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_39
+      rect:
+        serializedVersion: 2
+        x: 3693
+        y: 1326
+        width: 376
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_40
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 883
+        width: 374
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_41
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 883
+        width: 376
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_42
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 883
+        width: 376
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_43
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 883
+        width: 376
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_44
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 883
+        width: 377
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_45
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 883
+        width: 375
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_46
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 883
+        width: 376
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_47
+      rect:
+        serializedVersion: 2
+        x: 2876
+        y: 883
+        width: 376
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_48
+      rect:
+        serializedVersion: 2
+        x: 3283
+        y: 883
+        width: 378
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_49
+      rect:
+        serializedVersion: 2
+        x: 3691
+        y: 883
+        width: 378
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_50
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 441
+        width: 376
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_51
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 441
+        width: 376
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_52
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 441
+        width: 377
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_53
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 441
+        width: 378
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_54
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 441
+        width: 377
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_55
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 441
+        width: 377
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_56
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 441
+        width: 378
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_57
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 441
+        width: 378
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_58
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 441
+        width: 379
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_59
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 441
+        width: 378
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 378
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VEIJO CORRIENDO_61
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 378
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

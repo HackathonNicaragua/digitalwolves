@@ -1,0 +1,1945 @@
+fileFormatVersion: 2
+guid: 860f38ac380808948ad784ca1f42df08
+timeCreated: 1511702213
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Coyote Idle_0
+    21300002: Coyote Idle_1
+    21300004: Coyote Idle_2
+    21300006: Coyote Idle_3
+    21300008: Coyote Idle_4
+    21300010: Coyote Idle_5
+    21300012: Coyote Idle_6
+    21300014: Coyote Idle_7
+    21300016: Coyote Idle_8
+    21300018: Coyote Idle_9
+    21300020: Coyote Idle_10
+    21300022: Coyote Idle_11
+    21300024: Coyote Idle_12
+    21300026: Coyote Idle_13
+    21300028: Coyote Idle_14
+    21300030: Coyote Idle_15
+    21300032: Coyote Idle_16
+    21300034: Coyote Idle_17
+    21300036: Coyote Idle_18
+    21300038: Coyote Idle_19
+    21300040: Coyote Idle_20
+    21300042: Coyote Idle_21
+    21300044: Coyote Idle_22
+    21300046: Coyote Idle_23
+    21300048: Coyote Idle_24
+    21300050: Coyote Idle_25
+    21300052: Coyote Idle_26
+    21300054: Coyote Idle_27
+    21300056: Coyote Idle_28
+    21300058: Coyote Idle_29
+    21300060: Coyote Idle_30
+    21300062: Coyote Idle_31
+    21300064: Coyote Idle_32
+    21300066: Coyote Idle_33
+    21300068: Coyote Idle_34
+    21300070: Coyote Idle_35
+    21300072: Coyote Idle_36
+    21300074: Coyote Idle_37
+    21300076: Coyote Idle_38
+    21300078: Coyote Idle_39
+    21300080: Coyote Idle_40
+    21300082: Coyote Idle_41
+    21300084: Coyote Idle_42
+    21300086: Coyote Idle_43
+    21300088: Coyote Idle_44
+    21300090: Coyote Idle_45
+    21300092: Coyote Idle_46
+    21300094: Coyote Idle_47
+    21300096: Coyote Idle_48
+    21300098: Coyote Idle_49
+    21300100: Coyote Idle_50
+    21300102: Coyote Idle_51
+    21300104: Coyote Idle_52
+    21300106: Coyote Idle_53
+    21300108: Coyote Idle_54
+    21300110: Coyote Idle_55
+    21300112: Coyote Idle_56
+    21300114: Coyote Idle_57
+    21300116: Coyote Idle_58
+    21300118: Coyote Idle_59
+    21300120: Coyote Idle_60
+    21300122: Coyote Idle_61
+    21300124: Coyote Idle_62
+    21300126: Coyote Idle_63
+    21300128: Coyote Idle_64
+    21300130: Coyote Idle_65
+    21300132: Coyote Idle_66
+    21300134: Coyote Idle_67
+    21300136: Coyote Idle_68
+    21300138: Coyote Idle_69
+    21300140: Coyote Idle_70
+    21300142: Coyote Idle_71
+    21300144: Coyote Idle_72
+    21300146: Coyote Idle_73
+    21300148: Coyote Idle_74
+    21300150: Coyote Idle_75
+    21300152: Coyote Idle_76
+    21300154: Coyote Idle_77
+    21300156: Coyote Idle_78
+    21300158: Coyote Idle_79
+    21300160: Coyote Idle_80
+    21300162: Coyote Idle_81
+    21300164: Coyote Idle_82
+    21300166: Coyote Idle_83
+    21300168: Coyote Idle_84
+    21300170: Coyote Idle_85
+    21300172: Coyote Idle_86
+    21300174: Coyote Idle_87
+    21300176: Coyote Idle_88
+    21300178: Coyote Idle_89
+    21300180: Coyote Idle_90
+    21300182: Coyote Idle_91
+    21300184: Coyote Idle_92
+    21300186: Coyote Idle_93
+    21300188: Coyote Idle_94
+    21300190: Coyote Idle_95
+    21300192: Coyote Idle_96
+    21300194: Coyote Idle_97
+    21300196: Coyote Idle_98
+    21300198: Coyote Idle_99
+    21300200: Coyote Idle_100
+    21300202: Coyote Idle_101
+    21300204: Coyote Idle_102
+    21300206: Coyote Idle_103
+    21300208: Coyote Idle_104
+    21300210: Coyote Idle_105
+    21300212: Coyote Idle_106
+    21300214: Coyote Idle_107
+    21300216: Coyote Idle_108
+    21300218: Coyote Idle_109
+    21300220: Coyote Idle_110
+    21300222: Coyote Idle_111
+    21300224: Coyote Idle_112
+    21300226: Coyote Idle_113
+    21300228: Coyote Idle_114
+    21300230: Coyote Idle_115
+    21300232: Coyote Idle_116
+    21300234: Coyote Idle_117
+    21300236: Coyote Idle_118
+    21300238: Coyote Idle_119
+    21300240: Coyote Idle_120
+    21300242: Coyote Idle_121
+    21300244: Coyote Idle_122
+    21300246: Coyote Idle_123
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Coyote Idle_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 3308
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_1
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 3308
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_2
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 3307
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_3
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 3306
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_4
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 3306
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_5
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 3305
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_6
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 3305
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_7
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 3304
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_8
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 3304
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_9
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 3303
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2859
+        width: 379
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_11
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2858
+        width: 371
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_12
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 2854
+        width: 360
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_13
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 2852
+        width: 355
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_14
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 2848
+        width: 353
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_15
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 2847
+        width: 352
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_16
+      rect:
+        serializedVersion: 2
+        x: 2293
+        y: 2847
+        width: 355
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_17
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 2845
+        width: 356
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_18
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 2846
+        width: 356
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_19
+      rect:
+        serializedVersion: 2
+        x: 3425
+        y: 2847
+        width: 355
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_20
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2828
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_21
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2828
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_22
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 2827
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_23
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 2827
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_24
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 2827
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_25
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 2827
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_26
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 2828
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_27
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 2828
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_28
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 2828
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_29
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 2828
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_30
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2374
+        width: 358
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_31
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2376
+        width: 360
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_32
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 2380
+        width: 369
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_33
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 2381
+        width: 372
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_34
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 2380
+        width: 371
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_35
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 2380
+        width: 366
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_36
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 2378
+        width: 364
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_37
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 2378
+        width: 362
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_38
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 2378
+        width: 360
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_39
+      rect:
+        serializedVersion: 2
+        x: 3423
+        y: 2376
+        width: 357
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_40
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 2354
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_41
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2354
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_42
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 2354
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_43
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 2355
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_44
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 2355
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_45
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 2355
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_46
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 2355
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_47
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 2356
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_48
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2356
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_49
+      rect:
+        serializedVersion: 2
+        x: 3451
+        y: 2356
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_50
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1902
+        width: 358
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_51
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1902
+        width: 358
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_52
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1900
+        width: 359
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_53
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 1900
+        width: 358
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_54
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1900
+        width: 360
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_55
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1900
+        width: 358
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_56
+      rect:
+        serializedVersion: 2
+        x: 2291
+        y: 1898
+        width: 357
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_57
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 1898
+        width: 358
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_58
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 1898
+        width: 358
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_59
+      rect:
+        serializedVersion: 2
+        x: 3425
+        y: 1898
+        width: 355
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_60
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1882
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_61
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1882
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_62
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1882
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_63
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1882
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_64
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1882
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_65
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1882
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_66
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 1883
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_67
+      rect:
+        serializedVersion: 2
+        x: 2698
+        y: 1883
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_68
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 1883
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_69
+      rect:
+        serializedVersion: 2
+        x: 3455
+        y: 1883
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_70
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1424
+        width: 356
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_71
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1424
+        width: 357
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_72
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1424
+        width: 356
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_73
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1424
+        width: 356
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_74
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1424
+        width: 356
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_75
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 1424
+        width: 354
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_76
+      rect:
+        serializedVersion: 2
+        x: 2293
+        y: 1424
+        width: 355
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_77
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 1424
+        width: 354
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_78
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 1424
+        width: 354
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_79
+      rect:
+        serializedVersion: 2
+        x: 3428
+        y: 1424
+        width: 352
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_80
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1409
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_81
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1409
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_82
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1409
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_83
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1409
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_84
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1409
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_85
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 1410
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_86
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 1409
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_87
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 1410
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_88
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1410
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_89
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 1410
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_90
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 949
+        width: 352
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_91
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 951
+        width: 353
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_92
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 951
+        width: 352
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_93
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 951
+        width: 352
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_94
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 951
+        width: 353
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_95
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 951
+        width: 350
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_96
+      rect:
+        serializedVersion: 2
+        x: 2297
+        y: 953
+        width: 351
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_97
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 953
+        width: 351
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_98
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 953
+        width: 352
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_99
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 955
+        width: 351
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_100
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 937
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_101
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 937
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_102
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 937
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_103
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 937
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_104
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 937
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_105
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 937
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_106
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 937
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_107
+      rect:
+        serializedVersion: 2
+        x: 2705
+        y: 937
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_108
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 937
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_109
+      rect:
+        serializedVersion: 2
+        x: 3462
+        y: 937
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_110
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 481
+        width: 353
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_111
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 483
+        width: 355
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_112
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 483
+        width: 357
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_113
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 484
+        width: 358
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_114
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 484
+        width: 360
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_115
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 485
+        width: 361
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_116
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 486
+        width: 364
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_117
+      rect:
+        serializedVersion: 2
+        x: 2659
+        y: 486
+        width: 367
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_118
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 486
+        width: 371
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_119
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 486
+        width: 372
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_120
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 464
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_121
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 464
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_122
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 14
+        width: 374
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coyote Idle_123
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 14
+        width: 379
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

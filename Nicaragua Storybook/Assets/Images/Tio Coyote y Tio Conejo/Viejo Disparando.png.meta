@@ -1,0 +1,1015 @@
+fileFormatVersion: 2
+guid: 009f998bc426c5440b386af3e9bf0a28
+timeCreated: 1511701881
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: disparo_0
+    21300002: disparo_1
+    21300004: disparo_2
+    21300006: disparo_3
+    21300008: disparo_4
+    21300010: disparo_5
+    21300012: disparo_6
+    21300014: disparo_7
+    21300016: disparo_8
+    21300018: disparo_9
+    21300020: disparo_10
+    21300022: disparo_11
+    21300024: disparo_12
+    21300026: disparo_13
+    21300028: disparo_14
+    21300030: disparo_15
+    21300032: disparo_16
+    21300034: disparo_17
+    21300036: disparo_18
+    21300038: disparo_19
+    21300040: disparo_20
+    21300042: disparo_21
+    21300044: disparo_22
+    21300046: disparo_23
+    21300048: disparo_24
+    21300050: disparo_25
+    21300052: disparo_26
+    21300054: disparo_27
+    21300056: disparo_28
+    21300058: disparo_29
+    21300060: disparo_30
+    21300062: disparo_31
+    21300064: disparo_32
+    21300066: disparo_33
+    21300068: disparo_34
+    21300070: disparo_35
+    21300072: disparo_36
+    21300074: disparo_37
+    21300076: disparo_38
+    21300078: disparo_39
+    21300080: disparo_40
+    21300082: disparo_41
+    21300084: disparo_42
+    21300086: disparo_43
+    21300088: disparo_44
+    21300090: disparo_45
+    21300092: disparo_46
+    21300094: disparo_47
+    21300096: disparo_48
+    21300098: disparo_49
+    21300100: disparo_50
+    21300102: disparo_51
+    21300104: disparo_52
+    21300106: disparo_53
+    21300108: disparo_54
+    21300110: disparo_55
+    21300112: disparo_56
+    21300114: disparo_57
+    21300116: disparo_58
+    21300118: disparo_59
+    21300120: disparo_60
+    21300122: disparo_61
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: disparo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2775
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_1
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 2775
+        width: 405
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_2
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 2775
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_3
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 2775
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_4
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 2775
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_5
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 2775
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_6
+      rect:
+        serializedVersion: 2
+        x: 2653
+        y: 2775
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_7
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 2775
+        width: 404
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_8
+      rect:
+        serializedVersion: 2
+        x: 3537
+        y: 2775
+        width: 407
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_9
+      rect:
+        serializedVersion: 2
+        x: 3980
+        y: 2775
+        width: 405
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2312
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_11
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 2312
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_12
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2312
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_13
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 2312
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_14
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 2312
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_15
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 2312
+        width: 404
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_16
+      rect:
+        serializedVersion: 2
+        x: 2665
+        y: 2312
+        width: 407
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_17
+      rect:
+        serializedVersion: 2
+        x: 3107
+        y: 2312
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_18
+      rect:
+        serializedVersion: 2
+        x: 3550
+        y: 2312
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_19
+      rect:
+        serializedVersion: 2
+        x: 3992
+        y: 2312
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1849
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_21
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1849
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_22
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1849
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_23
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1849
+        width: 404
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_24
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1849
+        width: 407
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_25
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 1849
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_26
+      rect:
+        serializedVersion: 2
+        x: 2678
+        y: 1849
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_27
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1849
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_28
+      rect:
+        serializedVersion: 2
+        x: 3562
+        y: 1849
+        width: 405
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_29
+      rect:
+        serializedVersion: 2
+        x: 4005
+        y: 1849
+        width: 405
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_30
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1386
+        width: 405
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1386
+        width: 404
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_32
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1386
+        width: 405
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_33
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1386
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_34
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 1386
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_35
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 1386
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_36
+      rect:
+        serializedVersion: 2
+        x: 2678
+        y: 1386
+        width: 407
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_37
+      rect:
+        serializedVersion: 2
+        x: 3118
+        y: 1386
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_38
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 1386
+        width: 404
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_39
+      rect:
+        serializedVersion: 2
+        x: 3998
+        y: 1386
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_40
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 923
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_41
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 923
+        width: 405
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_42
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 923
+        width: 405
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_43
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 923
+        width: 405
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_44
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 923
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_45
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 923
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_46
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 923
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_47
+      rect:
+        serializedVersion: 2
+        x: 3107
+        y: 923
+        width: 404
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_48
+      rect:
+        serializedVersion: 2
+        x: 3546
+        y: 923
+        width: 404
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_49
+      rect:
+        serializedVersion: 2
+        x: 3985
+        y: 923
+        width: 407
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_50
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 460
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_51
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 460
+        width: 405
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_52
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 460
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_53
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 460
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_54
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 460
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_55
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 460
+        width: 405
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_56
+      rect:
+        serializedVersion: 2
+        x: 2653
+        y: 460
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_57
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 460
+        width: 404
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_58
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 460
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_59
+      rect:
+        serializedVersion: 2
+        x: 3973
+        y: 460
+        width: 406
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 406
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: disparo_61
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 0
+        width: 404
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
