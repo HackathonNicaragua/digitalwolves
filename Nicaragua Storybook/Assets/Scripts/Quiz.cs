@@ -29,34 +29,45 @@ public class Quiz : MonoBehaviour
         public string AnswerText;
     }
 
-    public Transform Answers; //The order is important
+    public Transform AnswersContainer; //The order is important
     public Text QuestionTitle;
     public int Score;
 
-    public List<Question> Questions = new List<Question>();
+    [Tooltip("All questions from the current quiz")] public List<Question> Questions;
+
+    public void ShowQuestion(int index)
+    {
+        Debug.Log(Questions.Count);
+
+        Debug.Log(Questions[0]);
+        Question question = Questions[index];
+
+        var q = question;
+
+        //An array of answer objects
+        var ans = q.Answers;
+
+        Debug.Log(ans.Length);
+
+        //Create a new list of answer buttons
+        List<Transform> a = new List<Transform>();
+
+        //Get every button from transform container
+        foreach (Transform answer in AnswersContainer)
+        {
+            a.Add(answer);
+            Debug.Log(a.Count);
+        }
+
+        //Insert an individual answer in each button
+        for (int i = 0; i <= 3; i++)
+        {
+            a[i].GetComponent<AnswerButton>().OwnAnswer = ans[i];
+        }
+    }
 
     private void Start()
     {
-       SetUpQuestions(0);
-    }
-
-
-    public void SetUpQuestions(int questionIndex)
-    {
-        if (questionIndex > Questions.Count - 1) //Doesn't allow to go any further
-            return;
-
-        QuestionTitle.text = Questions[questionIndex].QuestionTitle;
-
-        var index = 0;
-
-        foreach (Transform answer in Answers)
-        {
-            answer.GetComponent<QuestionButton>().Question = Questions[questionIndex].Answers[questionIndex];
-            answer.GetChild(0).GetComponent<Text>().text = Questions[questionIndex].Answers[index].AnswerText;
-            index++;
-        }
-
-        Debug.Log("We are at question: " + questionIndex);
+        ShowQuestion(0);
     }
 }
