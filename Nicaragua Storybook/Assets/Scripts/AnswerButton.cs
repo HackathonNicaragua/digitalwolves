@@ -15,6 +15,9 @@ public class AnswerButton : MonoBehaviour
 
     private void Submit()
     {
-		SubmitButton.Answer = OwnAnswer;
+		if (OwnAnswer == null)
+			Debug.Log ("Answer is null!");
+		else
+			SubmitButton.Answer = OwnAnswer;
     }
 }

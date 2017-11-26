@@ -51,7 +51,6 @@ public class Quiz : MonoBehaviour
         foreach (Transform answer in AnswersContainer)
         {
 			answersButtonArray.Add(answer);
-            Debug.Log(answersButtonArray.Count);
         }
 
         //Insert an individual answer in each button
