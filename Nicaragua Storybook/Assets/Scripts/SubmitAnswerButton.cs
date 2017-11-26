@@ -7,6 +7,8 @@ public class SubmitAnswerButton : MonoBehaviour
 	[HideInInspector]
 	public Quiz.Answer Answer;
 
+	public GameObject Results;
+
 	private int _questionIndex = 0;
 
 	private Quiz _quiz;
@@ -26,20 +28,30 @@ public class SubmitAnswerButton : MonoBehaviour
 			_questionIndex++;
 
 			//Go to next question
-			if (_questionIndex >= _quiz.Questions.Count) 
+			if (_questionIndex > 5) 
 			{
-				//Show results screen
+				Results.SetActive(true);
+				GameObject.Find ("QuizHolder").SetActive(false);
 			} else 
 			{
 				_quiz.ShowQuestion (_questionIndex);
+				_quiz.AnsweredCorrectly++;
 			}
 		} 
 		else if (!Answer.IsCorrect)
 		{
 			_questionIndex++;
 
-			Debug.Log ("Incorrect!");
-			_quiz.ShowQuestion (_questionIndex);
+			if (_questionIndex > 4) 
+			{
+				Results.SetActive(true);
+				GameObject.Find ("QuizHolder").SetActive (false);
+			} 
+			else 
+			{
+				Debug.Log ("Incorrect!");
+				_quiz.ShowQuestion (_questionIndex);
+			}
 		}
 	}
 }
