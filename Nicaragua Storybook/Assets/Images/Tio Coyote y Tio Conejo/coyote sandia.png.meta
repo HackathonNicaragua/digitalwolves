@@ -1,9 +1,129 @@
 fileFormatVersion: 2
 guid: d30e0b6c0412eb24483f3d710dd76d99
-timeCreated: 1511710904
+timeCreated: 1511711189
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: coyote sandia_0
+    21300002: coyote sandia_1
+    21300004: coyote sandia_2
+    21300006: coyote sandia_3
+    21300008: coyote sandia_4
+    21300010: coyote sandia_5
+    21300012: coyote sandia_6
+    21300014: coyote sandia_7
+    21300016: coyote sandia_8
+    21300018: coyote sandia_9
+    21300020: coyote sandia_10
+    21300022: coyote sandia_11
+    21300024: coyote sandia_12
+    21300026: coyote sandia_13
+    21300028: coyote sandia_14
+    21300030: coyote sandia_15
+    21300032: coyote sandia_16
+    21300034: coyote sandia_17
+    21300036: coyote sandia_18
+    21300038: coyote sandia_19
+    21300040: coyote sandia_20
+    21300042: coyote sandia_21
+    21300044: coyote sandia_22
+    21300046: coyote sandia_23
+    21300048: coyote sandia_24
+    21300050: coyote sandia_25
+    21300052: coyote sandia_26
+    21300054: coyote sandia_27
+    21300056: coyote sandia_28
+    21300058: coyote sandia_29
+    21300060: coyote sandia_30
+    21300062: coyote sandia_31
+    21300064: coyote sandia_32
+    21300066: coyote sandia_33
+    21300068: coyote sandia_34
+    21300070: coyote sandia_35
+    21300072: coyote sandia_36
+    21300074: coyote sandia_37
+    21300076: coyote sandia_38
+    21300078: coyote sandia_39
+    21300080: coyote sandia_40
+    21300082: coyote sandia_41
+    21300084: coyote sandia_42
+    21300086: coyote sandia_43
+    21300088: coyote sandia_44
+    21300090: coyote sandia_45
+    21300092: coyote sandia_46
+    21300094: coyote sandia_47
+    21300096: coyote sandia_48
+    21300098: coyote sandia_49
+    21300100: coyote sandia_50
+    21300102: coyote sandia_51
+    21300104: coyote sandia_52
+    21300106: coyote sandia_53
+    21300108: coyote sandia_54
+    21300110: coyote sandia_55
+    21300112: coyote sandia_56
+    21300114: coyote sandia_57
+    21300116: coyote sandia_58
+    21300118: coyote sandia_59
+    21300120: coyote sandia_60
+    21300122: coyote sandia_61
+    21300124: coyote sandia_62
+    21300126: coyote sandia_63
+    21300128: coyote sandia_64
+    21300130: coyote sandia_65
+    21300132: coyote sandia_66
+    21300134: coyote sandia_67
+    21300136: coyote sandia_68
+    21300138: coyote sandia_69
+    21300140: coyote sandia_70
+    21300142: coyote sandia_71
+    21300144: coyote sandia_72
+    21300146: coyote sandia_73
+    21300148: coyote sandia_74
+    21300150: coyote sandia_75
+    21300152: coyote sandia_76
+    21300154: coyote sandia_77
+    21300156: coyote sandia_78
+    21300158: coyote sandia_79
+    21300160: coyote sandia_80
+    21300162: coyote sandia_81
+    21300164: coyote sandia_82
+    21300166: coyote sandia_83
+    21300168: coyote sandia_84
+    21300170: coyote sandia_85
+    21300172: coyote sandia_86
+    21300174: coyote sandia_87
+    21300176: coyote sandia_88
+    21300178: coyote sandia_89
+    21300180: coyote sandia_90
+    21300182: coyote sandia_91
+    21300184: coyote sandia_92
+    21300186: coyote sandia_93
+    21300188: coyote sandia_94
+    21300190: coyote sandia_95
+    21300192: coyote sandia_96
+    21300194: coyote sandia_97
+    21300196: coyote sandia_98
+    21300198: coyote sandia_99
+    21300200: coyote sandia_100
+    21300202: coyote sandia_101
+    21300204: coyote sandia_102
+    21300206: coyote sandia_103
+    21300208: coyote sandia_104
+    21300210: coyote sandia_105
+    21300212: coyote sandia_106
+    21300214: coyote sandia_107
+    21300216: coyote sandia_108
+    21300218: coyote sandia_109
+    21300220: coyote sandia_110
+    21300222: coyote sandia_111
+    21300224: coyote sandia_112
+    21300226: coyote sandia_113
+    21300228: coyote sandia_114
+    21300230: coyote sandia_115
+    21300232: coyote sandia_116
+    21300234: coyote sandia_117
+    21300236: coyote sandia_118
+    21300238: coyote sandia_119
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -40,7 +160,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -65,9 +185,1698 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: coyote sandia_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3149
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3149
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_2
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 3149
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_3
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 3150
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_4
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 3150
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_5
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 3150
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_6
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 3151
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_7
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 3151
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_8
+      rect:
+        serializedVersion: 2
+        x: 3393
+        y: 3151
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_9
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 2709
+        width: 391
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_10
+      rect:
+        serializedVersion: 2
+        x: 3809
+        y: 3151
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2709
+        width: 383
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_12
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 2709
+        width: 384
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_13
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 2709
+        width: 386
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_14
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 2709
+        width: 386
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_15
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 2709
+        width: 388
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_16
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 2709
+        width: 389
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_17
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 2709
+        width: 388
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_18
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 2709
+        width: 391
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_19
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 2709
+        width: 391
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2699
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_21
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2699
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_22
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 2700
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_23
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 2700
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_24
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 2257
+        width: 393
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_25
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 2700
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_26
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 2257
+        width: 393
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_27
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 2701
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_28
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 2257
+        width: 395
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_29
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 2701
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_30
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 2257
+        width: 397
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_31
+      rect:
+        serializedVersion: 2
+        x: 2986
+        y: 2701
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_32
+      rect:
+        serializedVersion: 2
+        x: 3324
+        y: 2257
+        width: 397
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_33
+      rect:
+        serializedVersion: 2
+        x: 3403
+        y: 2701
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_34
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 2257
+        width: 397
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_35
+      rect:
+        serializedVersion: 2
+        x: 3819
+        y: 2701
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2257
+        width: 391
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_37
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 2257
+        width: 393
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_38
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 2257
+        width: 393
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_39
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 2257
+        width: 393
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1805
+        width: 397
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_41
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2249
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_42
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1805
+        width: 398
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_43
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 2249
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_44
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1805
+        width: 399
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_45
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 2249
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_46
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1805
+        width: 399
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_47
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 2249
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_48
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1805
+        width: 399
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_49
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2249
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_50
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1805
+        width: 399
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_51
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 2250
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_52
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 1805
+        width: 400
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_53
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 1805
+        width: 401
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_54
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 2250
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_55
+      rect:
+        serializedVersion: 2
+        x: 3324
+        y: 1805
+        width: 401
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_56
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 1805
+        width: 399
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_57
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1353
+        width: 399
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_58
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1353
+        width: 400
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_59
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1797
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_60
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1353
+        width: 401
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_61
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1797
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_62
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1353
+        width: 401
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_63
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1797
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_64
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1353
+        width: 400
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_65
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1797
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_66
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1353
+        width: 399
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_67
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 1797
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_68
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 1353
+        width: 400
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_69
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 1797
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_70
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 1353
+        width: 400
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_71
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 1797
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_72
+      rect:
+        serializedVersion: 2
+        x: 3324
+        y: 1353
+        width: 399
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_73
+      rect:
+        serializedVersion: 2
+        x: 3404
+        y: 1797
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_74
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 1353
+        width: 399
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_75
+      rect:
+        serializedVersion: 2
+        x: 3818
+        y: 1797
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_76
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 901
+        width: 397
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_77
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1345
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_78
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 901
+        width: 398
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_79
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1345
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_80
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 901
+        width: 399
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_81
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1345
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_82
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 901
+        width: 397
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_83
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1345
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_84
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 901
+        width: 397
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_85
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 1345
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_86
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 901
+        width: 395
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_87
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 1345
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_88
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 1344
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_89
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 1344
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_90
+      rect:
+        serializedVersion: 2
+        x: 3395
+        y: 1343
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_91
+      rect:
+        serializedVersion: 2
+        x: 3811
+        y: 1343
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_92
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 901
+        width: 395
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_93
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 901
+        width: 395
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_94
+      rect:
+        serializedVersion: 2
+        x: 3324
+        y: 901
+        width: 395
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_95
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 901
+        width: 393
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_96
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 449
+        width: 394
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_97
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 891
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_98
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 449
+        width: 394
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_99
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 891
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_100
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 891
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_101
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 891
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_102
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 891
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_103
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 891
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_104
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 890
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_105
+      rect:
+        serializedVersion: 2
+        x: 2974
+        y: 890
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_106
+      rect:
+        serializedVersion: 2
+        x: 3387
+        y: 889
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_107
+      rect:
+        serializedVersion: 2
+        x: 3803
+        y: 889
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_108
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 449
+        width: 391
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_109
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 449
+        width: 393
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_110
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 449
+        width: 391
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_111
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 449
+        width: 389
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_112
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 449
+        width: 390
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_113
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 449
+        width: 389
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_114
+      rect:
+        serializedVersion: 2
+        x: 3321
+        y: 449
+        width: 388
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_115
+      rect:
+        serializedVersion: 2
+        x: 3736
+        y: 449
+        width: 387
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_116
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 437
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_117
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 437
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_118
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 386
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coyote sandia_119
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 385
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
     outline: []
     physicsShape: []
   spritePackingTag: 

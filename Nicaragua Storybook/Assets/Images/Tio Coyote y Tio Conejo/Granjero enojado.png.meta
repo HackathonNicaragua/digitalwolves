@@ -1,9 +1,79 @@
 fileFormatVersion: 2
 guid: e427e367f88d22a48b67d72281f437c2
-timeCreated: 1511710908
+timeCreated: 1511711964
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Granjero enojado_0
+    21300002: Granjero enojado_1
+    21300004: Granjero enojado_2
+    21300006: Granjero enojado_3
+    21300008: Granjero enojado_4
+    21300010: Granjero enojado_5
+    21300012: Granjero enojado_6
+    21300014: Granjero enojado_7
+    21300016: Granjero enojado_8
+    21300018: Granjero enojado_9
+    21300020: Granjero enojado_10
+    21300022: Granjero enojado_11
+    21300024: Granjero enojado_12
+    21300026: Granjero enojado_13
+    21300028: Granjero enojado_14
+    21300030: Granjero enojado_15
+    21300032: Granjero enojado_16
+    21300034: Granjero enojado_17
+    21300036: Granjero enojado_18
+    21300038: Granjero enojado_19
+    21300040: Granjero enojado_20
+    21300042: Granjero enojado_21
+    21300044: Granjero enojado_22
+    21300046: Granjero enojado_23
+    21300048: Granjero enojado_24
+    21300050: Granjero enojado_25
+    21300052: Granjero enojado_26
+    21300054: Granjero enojado_27
+    21300056: Granjero enojado_28
+    21300058: Granjero enojado_29
+    21300060: Granjero enojado_30
+    21300062: Granjero enojado_31
+    21300064: Granjero enojado_32
+    21300066: Granjero enojado_33
+    21300068: Granjero enojado_34
+    21300070: Granjero enojado_35
+    21300072: Granjero enojado_36
+    21300074: Granjero enojado_37
+    21300076: Granjero enojado_38
+    21300078: Granjero enojado_39
+    21300080: Granjero enojado_40
+    21300082: Granjero enojado_41
+    21300084: Granjero enojado_42
+    21300086: Granjero enojado_43
+    21300088: Granjero enojado_44
+    21300090: Granjero enojado_45
+    21300092: Granjero enojado_46
+    21300094: Granjero enojado_47
+    21300096: Granjero enojado_48
+    21300098: Granjero enojado_49
+    21300100: Granjero enojado_50
+    21300102: Granjero enojado_51
+    21300104: Granjero enojado_52
+    21300106: Granjero enojado_53
+    21300108: Granjero enojado_54
+    21300110: Granjero enojado_55
+    21300112: Granjero enojado_56
+    21300114: Granjero enojado_57
+    21300116: Granjero enojado_58
+    21300118: Granjero enojado_59
+    21300120: Granjero enojado_60
+    21300122: Granjero enojado_61
+    21300124: Granjero enojado_62
+    21300126: Granjero enojado_63
+    21300128: Granjero enojado_64
+    21300130: Granjero enojado_65
+    21300132: Granjero enojado_66
+    21300134: Granjero enojado_67
+    21300136: Granjero enojado_68
+    21300138: Granjero enojado_69
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -40,7 +110,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -65,9 +135,998 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Granjero enojado_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2902
+        width: 415
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_1
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2902
+        width: 416
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_2
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 2902
+        width: 417
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_3
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 2902
+        width: 419
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_4
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 2902
+        width: 421
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_5
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 2902
+        width: 422
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_6
+      rect:
+        serializedVersion: 2
+        x: 2788
+        y: 2902
+        width: 423
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_7
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 2417
+        width: 432
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_8
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 2902
+        width: 426
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_9
+      rect:
+        serializedVersion: 2
+        x: 3393
+        y: 2898
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_10
+      rect:
+        serializedVersion: 2
+        x: 3717
+        y: 2902
+        width: 426
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_11
+      rect:
+        serializedVersion: 2
+        x: 3724
+        y: 2417
+        width: 435
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_12
+      rect:
+        serializedVersion: 2
+        x: 4181
+        y: 2902
+        width: 428
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_13
+      rect:
+        serializedVersion: 2
+        x: 4322
+        y: 2898
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2417
+        width: 428
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2414
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_16
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2417
+        width: 431
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_17
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1934
+        width: 435
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_18
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 2417
+        width: 430
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_19
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1934
+        width: 437
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_20
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 2417
+        width: 433
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_21
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 2414
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_22
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2417
+        width: 433
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_23
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 2414
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_24
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 2417
+        width: 433
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_25
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 1948
+        width: 437
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_26
+      rect:
+        serializedVersion: 2
+        x: 2802
+        y: 1934
+        width: 439
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_27
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 2417
+        width: 435
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_28
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 1934
+        width: 441
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_29
+      rect:
+        serializedVersion: 2
+        x: 3724
+        y: 1934
+        width: 446
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_30
+      rect:
+        serializedVersion: 2
+        x: 4186
+        y: 1934
+        width: 450
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_31
+      rect:
+        serializedVersion: 2
+        x: 4188
+        y: 2417
+        width: 437
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_32
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1934
+        width: 435
+        height: 483
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_33
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1934
+        width: 435
+        height: 483
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_34
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1934
+        width: 435
+        height: 483
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1449
+        width: 453
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 965
+        width: 436
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_37
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1449
+        width: 457
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_38
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1446
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_39
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1449
+        width: 455
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_40
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1446
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_41
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1449
+        width: 451
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_42
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 965
+        width: 435
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_43
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1449
+        width: 446
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_44
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 965
+        width: 435
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_45
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 1449
+        width: 444
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_46
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 1446
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_47
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 965
+        width: 434
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_48
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 1449
+        width: 440
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_49
+      rect:
+        serializedVersion: 2
+        x: 3257
+        y: 965
+        width: 435
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_50
+      rect:
+        serializedVersion: 2
+        x: 3268
+        y: 1449
+        width: 437
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_51
+      rect:
+        serializedVersion: 2
+        x: 3730
+        y: 1449
+        width: 438
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_52
+      rect:
+        serializedVersion: 2
+        x: 4195
+        y: 1449
+        width: 435
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_53
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 482
+        width: 430
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_54
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 482
+        width: 431
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_55
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 965
+        width: 437
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_56
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 482
+        width: 428
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_57
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 965
+        width: 435
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_58
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 482
+        width: 428
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_59
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 482
+        width: 426
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_60
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 482
+        width: 425
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_61
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 965
+        width: 434
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_62
+      rect:
+        serializedVersion: 2
+        x: 2788
+        y: 482
+        width: 424
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_63
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 482
+        width: 422
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_64
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 482
+        width: 421
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_65
+      rect:
+        serializedVersion: 2
+        x: 3721
+        y: 965
+        width: 433
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_66
+      rect:
+        serializedVersion: 2
+        x: 4179
+        y: 482
+        width: 419
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_67
+      rect:
+        serializedVersion: 2
+        x: 4184
+        y: 965
+        width: 432
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_68
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 417
+        height: 483
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granjero enojado_69
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 0
+        width: 416
+        height: 482
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
     outline: []
     physicsShape: []
   spritePackingTag: 

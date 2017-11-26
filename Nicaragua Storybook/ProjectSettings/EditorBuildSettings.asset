@@ -18,5 +18,14 @@ EditorBuildSettings:
     path: Assets/_Scenes/Main Menu.unity
     guid: 6b9b695ff0035294e96c12fa0d50aa61
   - enabled: 1
-    path: Assets/_Scenes/QuizTest.unity
+    path: Assets/_Scenes/QuizTioCoyote.unity
     guid: 88338e602826daa4a8df5e93c23b68ae
+  - enabled: 1
+    path: Assets/_Scenes/QuizSanJacinto.unity
+    guid: 77d18228d27f5ee4595291d645510831
+  - enabled: 1
+    path: Assets/_Scenes/StorybookTioCoyote.unity
+    guid: 108d020a790857346b6ab0e00fc4d00e
+  - enabled: 1
+    path: Assets/_Scenes/Minigame.unity
+    guid: c03a66b3702acc546810858068429adb

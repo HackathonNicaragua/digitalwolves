@@ -1,9 +1,71 @@
 fileFormatVersion: 2
 guid: 6fac3d67c72cbd84db3fc4226691c346
-timeCreated: 1511710902
+timeCreated: 1511711540
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: conejo burlon_0
+    21300002: conejo burlon_1
+    21300004: conejo burlon_2
+    21300006: conejo burlon_3
+    21300008: conejo burlon_4
+    21300010: conejo burlon_5
+    21300012: conejo burlon_6
+    21300014: conejo burlon_7
+    21300016: conejo burlon_8
+    21300018: conejo burlon_9
+    21300020: conejo burlon_10
+    21300022: conejo burlon_11
+    21300024: conejo burlon_12
+    21300026: conejo burlon_13
+    21300028: conejo burlon_14
+    21300030: conejo burlon_15
+    21300032: conejo burlon_16
+    21300034: conejo burlon_17
+    21300036: conejo burlon_18
+    21300038: conejo burlon_19
+    21300040: conejo burlon_20
+    21300042: conejo burlon_21
+    21300044: conejo burlon_22
+    21300046: conejo burlon_23
+    21300048: conejo burlon_24
+    21300050: conejo burlon_25
+    21300052: conejo burlon_26
+    21300054: conejo burlon_27
+    21300056: conejo burlon_28
+    21300058: conejo burlon_29
+    21300060: conejo burlon_30
+    21300062: conejo burlon_31
+    21300064: conejo burlon_32
+    21300066: conejo burlon_33
+    21300068: conejo burlon_34
+    21300070: conejo burlon_35
+    21300072: conejo burlon_36
+    21300074: conejo burlon_37
+    21300076: conejo burlon_38
+    21300078: conejo burlon_39
+    21300080: conejo burlon_40
+    21300082: conejo burlon_41
+    21300084: conejo burlon_42
+    21300086: conejo burlon_43
+    21300088: conejo burlon_44
+    21300090: conejo burlon_45
+    21300092: conejo burlon_46
+    21300094: conejo burlon_47
+    21300096: conejo burlon_48
+    21300098: conejo burlon_49
+    21300100: conejo burlon_50
+    21300102: conejo burlon_51
+    21300104: conejo burlon_52
+    21300106: conejo burlon_53
+    21300108: conejo burlon_54
+    21300110: conejo burlon_55
+    21300112: conejo burlon_56
+    21300114: conejo burlon_57
+    21300116: conejo burlon_58
+    21300118: conejo burlon_59
+    21300120: conejo burlon_60
+    21300122: conejo burlon_61
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -40,7 +102,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -65,9 +127,886 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: conejo burlon_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1664
+        width: 107
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1664
+        width: 107
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_2
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1664
+        width: 107
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_3
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1664
+        width: 108
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_4
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1664
+        width: 108
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_5
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1664
+        width: 108
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_6
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1664
+        width: 108
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_7
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1664
+        width: 108
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_8
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1664
+        width: 108
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_9
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1664
+        width: 108
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1387
+        width: 108
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1387
+        width: 108
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_12
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1387
+        width: 108
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_13
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1387
+        width: 108
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_14
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1387
+        width: 108
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_15
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1387
+        width: 109
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_16
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1387
+        width: 109
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_17
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1387
+        width: 109
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_18
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1387
+        width: 109
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_19
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1387
+        width: 109
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1110
+        width: 109
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1110
+        width: 109
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_22
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1110
+        width: 109
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_23
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1110
+        width: 109
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_24
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1110
+        width: 109
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_25
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1110
+        width: 109
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_26
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1110
+        width: 109
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_27
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1110
+        width: 110
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_28
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1110
+        width: 110
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_29
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1110
+        width: 110
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 833
+        width: 110
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_31
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 833
+        width: 110
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_32
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 833
+        width: 110
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_33
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 833
+        width: 110
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_34
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 833
+        width: 110
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_35
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 833
+        width: 110
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_36
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 833
+        width: 109
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_37
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 833
+        width: 109
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_38
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 833
+        width: 109
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_39
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 833
+        width: 109
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 556
+        width: 109
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_41
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 556
+        width: 109
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_42
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 556
+        width: 109
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_43
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 556
+        width: 109
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_44
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 556
+        width: 109
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_45
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 556
+        width: 109
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_46
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 556
+        width: 109
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_47
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 556
+        width: 109
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_48
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 556
+        width: 108
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_49
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 556
+        width: 108
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 279
+        width: 108
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_51
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 279
+        width: 108
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_52
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 279
+        width: 108
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_53
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 279
+        width: 108
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_54
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 279
+        width: 108
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_55
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 279
+        width: 108
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_56
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 279
+        width: 108
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_57
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 279
+        width: 108
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_58
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 279
+        width: 108
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_59
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 279
+        width: 108
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 107
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: conejo burlon_61
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2
+        width: 107
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
     outline: []
     physicsShape: []
   spritePackingTag: 
