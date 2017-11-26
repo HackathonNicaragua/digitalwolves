@@ -367,6 +367,7 @@ MonoBehaviour:
   OwnAnswer:
     IsCorrect: 0
     AnswerText: 
+  SubmitButton: {fileID: 1617941377}
 --- !u!114 &672986767
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -493,6 +494,7 @@ MonoBehaviour:
   OwnAnswer:
     IsCorrect: 0
     AnswerText: 
+  SubmitButton: {fileID: 1617941377}
 --- !u!114 &754254832
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -598,26 +600,28 @@ MonoBehaviour:
   QuestionTitle: {fileID: 1305519543}
   Score: 0
   Questions:
-  - QuestionTitle: Prueba
+  - QuestionTitle: "El T\xEDo Coyote deja caer el heno al ver al T\xEDo Conejo robando
+      sus sand\xEDas. Seleccione lo que ocurre luego:"
+    Answers:
+    - IsCorrect: 0
+      AnswerText: "El T\xEDo Coyote no estaba comiendo heno"
+    - IsCorrect: 0
+      AnswerText: "El T\xEDo Coyote no tiene un sand\xEDal"
+    - IsCorrect: 0
+      AnswerText: "El T\xEDo Conejo se comi\xF3 la sand\xEDa"
+    - IsCorrect: 1
+      AnswerText: "El granjero atrap\xF3 al T\xEDo Coyote comiendo sus sand\xEDas"
+  - QuestionTitle: "El T\xEDo Conejo ve pasar al granjero frente a su casa y lo invita
+      a un caf\xE9"
     Answers:
     - IsCorrect: 1
-      AnswerText: Respuesta1
+      AnswerText: "El T\xEDo Conejo no tiene casa"
     - IsCorrect: 0
-      AnswerText: Respuesta2
+      AnswerText: "El granjero acecpta el caf\xE9"
     - IsCorrect: 0
-      AnswerText: Respuesta3
+      AnswerText: B y D son correctas
     - IsCorrect: 0
-      AnswerText: Respuesta4
-  - QuestionTitle: Prueba
-    Answers:
-    - IsCorrect: 1
-      AnswerText: Respuesta1
-    - IsCorrect: 0
-      AnswerText: Respuesta2
-    - IsCorrect: 0
-      AnswerText: Respuesta3
-    - IsCorrect: 0
-      AnswerText: Respuesta4
+      AnswerText: "El conejo le regala una sand\xEDa al granjero"
   - QuestionTitle: Prueba
     Answers:
     - IsCorrect: 1
@@ -847,6 +851,7 @@ MonoBehaviour:
   OwnAnswer:
     IsCorrect: 0
     AnswerText: 
+  SubmitButton: {fileID: 1617941377}
 --- !u!1 &1042884886
 GameObject:
   m_ObjectHideFlags: 0
@@ -1142,6 +1147,7 @@ MonoBehaviour:
   OwnAnswer:
     IsCorrect: 0
     AnswerText: 
+  SubmitButton: {fileID: 1617941377}
 --- !u!114 &1245923141
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1446,8 +1452,9 @@ GameObject:
   - component: {fileID: 1617941376}
   - component: {fileID: 1617941375}
   - component: {fileID: 1617941374}
+  - component: {fileID: 1617941377}
   m_Layer: 5
-  m_Name: Button
+  m_Name: Submit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1557,6 +1564,20 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1617941372}
+--- !u!114 &1617941377
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1617941372}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5d047734be803b4facf403babc16ac6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Answer:
+    IsCorrect: 0
+    AnswerText: 
 --- !u!1 &1661784057
 GameObject:
   m_ObjectHideFlags: 0

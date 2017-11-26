@@ -31,39 +31,37 @@ public class Quiz : MonoBehaviour
 
     public Transform AnswersContainer; //The order is important
     public Text QuestionTitle;
-    public int Score;
+    public float Score; //No tiene funcionalidad... RIP
 
     [Tooltip("All questions from the current quiz")] public List<Question> Questions;
 
     public void ShowQuestion(int index)
     {
-        Debug.Log(Questions.Count);
-
-        Debug.Log(Questions[0]);
         Question question = Questions[index];
 
         var q = question;
 
         //An array of answer objects
-        var ans = q.Answers;
-
-        Debug.Log(ans.Length);
+		var answers = q.Answers;
 
         //Create a new list of answer buttons
-        List<Transform> a = new List<Transform>();
+        List<Transform> answersButtonArray = new List<Transform>();
 
         //Get every button from transform container
         foreach (Transform answer in AnswersContainer)
         {
-            a.Add(answer);
-            Debug.Log(a.Count);
+			answersButtonArray.Add(answer);
+            Debug.Log(answersButtonArray.Count);
         }
 
         //Insert an individual answer in each button
         for (int i = 0; i <= 3; i++)
         {
-            a[i].GetComponent<AnswerButton>().OwnAnswer = ans[i];
+            answersButtonArray[i].GetComponent<AnswerButton>().OwnAnswer = answers[i];
+			answersButtonArray [i].GetChild (0).GetComponent<Text> ().text = answers [i].AnswerText;
         }
+
+		QuestionTitle.text = q.QuestionTitle;
     }
 
     private void Start()

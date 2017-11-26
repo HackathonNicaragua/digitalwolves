@@ -6,13 +6,15 @@ public class AnswerButton : MonoBehaviour
 {
     [HideInInspector] public Quiz.Answer OwnAnswer;
 
+	public SubmitAnswerButton SubmitButton;
+
     private void Update()
     {
-        GetComponent<Button>().onClick.AddListener(TestAnswer);
+        GetComponent<Button>().onClick.AddListener(Submit);
     }
 
-    private void TestAnswer()
+    private void Submit()
     {
-        Debug.Log(OwnAnswer.IsCorrect);
+		SubmitButton.Answer = OwnAnswer;
     }
 }
